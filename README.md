@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://metaplex.com">
-    <img alt="Metaplex" src="https://metaplex.com/meta.svg" width="250" />
-  </a>
-</p>
 
-Metaplex is a protocol built on top of Solana that allows:
+
+Protocol built on top of Solana that allows:
 
 - **Creating/Minting** non-fungible tokens;
 - **Starting** a variety of auctions for primary/secondary sales;
